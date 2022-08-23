@@ -1,10 +1,11 @@
-// import "./App.css";
-import ApiKey from "./ApiKey";
+import React from "react";
+// CONTENT
+import Header from "../pages/Header";
 
 function App() {
   return (
     <>
-      <ApiKey />
+      <Header />
       <h1>YouTube CLONE</h1>
     </>
   );
