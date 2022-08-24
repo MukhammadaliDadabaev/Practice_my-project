@@ -1,0 +1,38 @@
+body {
+  font-family: "Roboto Mono", sans-serif;
+  /* font-family: "Roboto", sans-serif; */
+  font-weight: 400;
+  background-color: #ffffff;
+}
+
+/* HEADER NavTop STYLES*/
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-lfet {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo-icon {
+  margin-left: 2px;
+  font-size: 1.5rem;
+  font-weight: 900;
+  letter-spacing: -1px;
+  /* font-family: "Oswald", sans-serif; */
+  font-family: "Roboto", Arial, sans-serif;
+  color: #212121;
+  cursor: pointer;
+}
+.micfill {
+  margin-left: 15px;
+  padding: 5px;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background-color: #f9f9f9;
+  cursor: pointer;
+}
+/*  */
